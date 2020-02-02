@@ -13,3 +13,4 @@
 		* An ice cream cart
 		* A popcorn cart. 
 		* The color of the sky also changes according to the time of the day.
+<img src="display.PNG">
